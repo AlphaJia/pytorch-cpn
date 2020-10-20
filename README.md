@@ -1,5 +1,7 @@
 # PyTorch CPN(Cascaded Pyramid Network)
 
+Fork from https://github.com/GengDavid/pytorch-cpn, do minor changes for my own project
+
 This is a PyTorch re-implementation of CPN ([Cascaded Pyramid Network](https://arxiv.org/abs/1711.07319)), winner of MSCOCO keypoints2017 challenge. The TensorFlow version can be found [here](https://github.com/chenyilun95/tf-cpn), which is implemented by the paper author.
 
 ## Evaluation results on COCO minival dataset
